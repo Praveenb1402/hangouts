@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"hangouts-c3c0f","appId":"1:928769808100:android:9ddc9ec71ef88b755bfef1","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"hangouts-c3c0f","configurations":{"android":"1:928769808100:android:9ddc9ec71ef88b755bfef1","ios":"1:928769808100:ios:47a2776ac7fe23015bfef1"}}}}}}

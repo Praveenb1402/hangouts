@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "928769808100",
+    "project_id": "hangouts-c3c0f",
+    "storage_bucket": "hangouts-c3c0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928769808100:android:9ddc9ec71ef88b755bfef1",
+        "android_client_info": {
+          "package_name": "com.hangouts.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928769808100-o7koivs4fbdibc11h5b5bfgvjf7c6hh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3yvsOgZkybDWVNtQ4OGpufReeGCm7os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928769808100-o7koivs4fbdibc11h5b5bfgvjf7c6hh3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928769808100-ua138ucenae75e4jf6r647k7onjmfdnb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hangouts.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928769808100:android:418c9981a9e0698f5bfef1",
+        "android_client_info": {
+          "package_name": "com.hangouts.hangouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928769808100-ceuuoicibdllvepf4es0tpc2nu94qlmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hangouts.hangouts",
+            "certificate_hash": "faf23443d19c7931ef378a7b5cab2aff087c22a5"
+          }
+        },
+        {
+          "client_id": "928769808100-o7koivs4fbdibc11h5b5bfgvjf7c6hh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3yvsOgZkybDWVNtQ4OGpufReeGCm7os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928769808100-o7koivs4fbdibc11h5b5bfgvjf7c6hh3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928769808100-ua138ucenae75e4jf6r647k7onjmfdnb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hangouts.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
